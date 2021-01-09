@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pixel-board/static/css/main.22fe41fd.chunk.css",
+    "main.js": "/pixel-board/static/js/main.4d15942d.chunk.js",
+    "main.js.map": "/pixel-board/static/js/main.4d15942d.chunk.js.map",
+    "runtime-main.js": "/pixel-board/static/js/runtime-main.d0c95747.js",
+    "runtime-main.js.map": "/pixel-board/static/js/runtime-main.d0c95747.js.map",
+    "static/js/2.9d3b1846.chunk.js": "/pixel-board/static/js/2.9d3b1846.chunk.js",
+    "static/js/2.9d3b1846.chunk.js.map": "/pixel-board/static/js/2.9d3b1846.chunk.js.map",
+    "index.html": "/pixel-board/index.html",
+    "precache-manifest.d0ca62ada640ac85665afa06d2963344.js": "/pixel-board/precache-manifest.d0ca62ada640ac85665afa06d2963344.js",
+    "service-worker.js": "/pixel-board/service-worker.js",
+    "static/css/main.22fe41fd.chunk.css.map": "/pixel-board/static/css/main.22fe41fd.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0c95747.js",
+    "static/js/2.9d3b1846.chunk.js",
+    "static/css/main.22fe41fd.chunk.css",
+    "static/js/main.4d15942d.chunk.js"
+  ]
+}
